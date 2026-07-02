@@ -1,5 +1,6 @@
 {
   "authorized_ips": [
-    "galad.mcsh.io"
+    "galad.mcsh.io",
+    "198.244.228.170"
   ]
 }
